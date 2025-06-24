@@ -1,4 +1,4 @@
-# Funny Little AI
+# GPT Code Mulch
 
 A mulch pile of GPT generated code and prompts, but that didn't end up working.
 

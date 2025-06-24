@@ -1,6 +1,7 @@
 # Funny Little AI
 
-A tribute pile of failed and ultimately useless GPT generated code.
+A mulch pile of GPT generated code and prompts, but that didn't end up working.
 
-Open commit & contribute.
+Maybe one day it can be recycled.
 
+Open commit & contribute.  Any language/structure.
